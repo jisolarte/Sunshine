@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="SettingsLabel">Opciones</string>
+    <string name="action_map">Ver Ubicacion</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_settings">Opciones</string>
+    <string name="action_share">Compartir</string>
+    <string name="today">Hoy</string>
+    <string name="tomorrow">Mañana</string>
+    <string name="title_activity_detail">Detalles</string>
+    <string name="pref_location_title">Ubicacion</string>
+    <string name="temp_title">Unidad de Temperatura</string>
+    <string name="format_humidity">Humedad: </string>
+    <string name="format_temperature"></string>
+    <string name="format_notification">Pronostico: </string>
+    <string name="pref_enable_notifications_false">Desactivado</string>
+    <string name="pref_enable_notifications_true">Activado</string>
+</resources>
